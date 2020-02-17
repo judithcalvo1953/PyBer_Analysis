@@ -1,5 +1,5 @@
 # PyBer_Analysis
-This was a very challenging assign in terms of learning many new things about pivot tables..  I was able to successfully complete part one of the challenge as well as part 2 with much assistance from the TAs.  the "fivethirtyeight" design template is a time saver in that many of the visualization characteristics are embedded in the backend programming of this style.
+This was a very challenging assignment in terms of learning many new things about pivot tables.  The "fivethirtyeight" design template is a time saver in that many of the visualization characteristics are embedded in the backend programming of this style.  Thus, there are fewer commands needed to specify axis and legend formatting and color scheme.
 ## Interpretation of the data
 Based on what I was able to ascertain, average fares are higher in the rural cities, but because volume is so much lower, the overall profit in the rural areas is much lower.  The pivot table from part one demonstrates that, as well as the graph that illustrates much lower fare profits in the rural areas.  I would venture to say that adding more resources (drivers) to rural areas might be a possible business choice, in order to bolster profits.  This, however, would likely lower average fares per driver, as the rural market would become more competitive.
 ## Conclusions
